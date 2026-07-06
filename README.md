@@ -32,7 +32,7 @@ The full `.pbix` file is in [`dashboards/`](dashboards/) if you'd like to explor
 - [x] **Step 7** — Inferential statistics & hypothesis testing
 - [x] **Step 8** — Consolidate notebook, write engineered data back to Snowflake
 - [x] **Step 9** — Power BI dashboard
-- [ ] **Step 10** — Documentation, GitHub/LinkedIn packaging — in progress
+- [x] **Step 10** — Documentation, GitHub/LinkedIn packaging — in progress
 
 ## Setup
 
